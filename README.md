@@ -63,6 +63,19 @@ Test case documentation (Excel-based templates)
 
 Iterative and incremental development
 
-Personal Reflection
+Final Project Personal Reflection
 
 CS-250 helped me better understand how structured collaboration improves software outcomes. Working through different Scrum roles gave me perspective on how communication, adaptability, and shared ownership directly impact project success. The experience reinforced the importance of transparency and continuous improvement in Agile environments.
+
+CS-250 Final Reflection
+Interpreting User Needs and Turning Them Into Code
+
+For me, interpreting user needs starts with slowing down and making sure I actually understand what the user is trying to accomplish. Early in the course, I realized that it is easy to jump straight into coding without fully thinking through the “why” behind a feature. Writing user stories helped with that. The format forced me to identify who the user is, what they need, and the reason it matters. That extra step made implementation more focused. Instead of just building functionality, I was building something tied to a specific outcome. Breaking those stories into smaller backlog items also made development feel more manageable and less overwhelming.
+
+My Development Approach and Agile Practices
+
+I have learned that I work best when development is broken into smaller pieces with clear checkpoints. Trying to complete everything at once usually leads to confusion or rework. The sprint structure helped me stay organized and accountable. Sprint planning clarified priorities, daily updates improved communication, and retrospectives created space to reflect on what could be improved. Moving forward, I want to keep using short development cycles, visible task tracking, and regular feedback loops. Agile is not just about working quickly. It is about adjusting when requirements shift and being open to improvement instead of assuming the first solution is the final one.
+
+What It Means to Be a Good Team Member
+
+Being a good team member in software development goes beyond completing assigned tasks. It involves communicating clearly, listening to feedback, and being willing to adapt. Throughout this project, I saw how important transparency is. When everyone understands the current progress and any blockers, the team functions more smoothly. I also believe accountability matters. Owning mistakes and asking for clarification when needed builds trust. In the end, strong teamwork comes down to shared responsibility and a focus on delivering something meaningful to the user, not just finishing individual work.
